@@ -105,11 +105,12 @@
 
 @media screen and (max-width: 830px) {
   .title {
-    margin-top: 10px;
-    font-size: 40px;
+    margin-top: 20px;
+    font-size: 30px;
+    padding: 0%;
   }
   .description {
-    font-size: 20px;
+    font-size: 15px;
     margin-bottom: 20px;
   }
   .container {
