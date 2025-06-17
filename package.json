@@ -1,5 +1,5 @@
 {
-  "homepage": "https://madnan4.github.io/",
+  "homepage": "/",
   "name": "adnan-portfolio",
   "private": true,
   "version": "0.0.0",
@@ -7,7 +7,6 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build && rm -rf docs && cp -r dist docs",
-    "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
