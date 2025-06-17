@@ -71,6 +71,10 @@
 }
 
 @media screen and (max-width: 830px) {
+  .container{
+    padding: 20px;
+  }
+
   .content {
     flex-direction: column;
     flex-wrap: wrap;
@@ -80,6 +84,7 @@
 
   .skills {
     width: 100%;
+    gap: 10px;
     flex-wrap: wrap;
     flex-direction: row;
     align-items: center;
