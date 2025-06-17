@@ -1,0 +1,34 @@
+[
+    {
+      "role": "C++ Software Intern",
+      "organisation": "University of Illinois at Chicago",
+      "startDate": "June, 2024",
+      "endDate": "Aug, 2024",
+      "experiences": ["Developed a web scraper in C++ using Gumbo to extract university course data, enhancing course catalog management.",
+       "Migrated a schedule optimization program from GLPK to Gurobi, reducing execution time and improving system efficiency.",
+      "Implemented and optimized algorithms for data parsing and analysis, contributing to improved decision-making processes."],
+      "imageSrc": "/experience/uic.png"
+    },
+    {
+      "role": "Software Engineer Intern",
+      "organisation": "Murry Ave",
+      "startDate": "Dec, 2023",
+      "endDate": "May, 2024",
+      "experiences": ["Proficiently utilize Python, JavaScript, and SQL for backend development, specializing in database administration and seamless API integrations.",
+       "Played a pivotal role in strategic business planning initiatives, leveraging insights to drive informed decision-making processes.",
+       " Spearheaded the development of an advanced AI chatbot, employing a dynamic blend of JavaScript, CSS, Angular, and Python technologies to enhance user experience and elevate customer engagement levels."],
+      "imageSrc": "/experience/murry.png"
+    },
+    {
+      "role": "Teaching Aide",
+      "organisation": "University of Illinois at Chicago",
+      "startDate": "Aug, 2023",
+      "endDate": "May, 2024",
+      "experiences": [
+        "Collaborated with a professor to facilitate instruction in a Computer Science course, emphasizing MATLAB concepts.",
+        "Orchestrated and supervised weekly lab sessions accommodating 30-45 students per week, while also providing comprehensive support during thrice-weekly office hours to address students’ inquiries.",
+        "Evaluated and provided feedback on class handouts, homework, and lab assignments for a cohort of 300-310 students, actively participating in weekly staff meetings to contribute to discussions on student progression and curriculum enhancement."
+      ],
+      "imageSrc": "/experience/uic.png"
+    }
+  ]

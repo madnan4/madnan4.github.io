@@ -1,0 +1,58 @@
+
+[
+    {
+      "title": "HTML",
+      "imageSrc": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "https://img.icons8.com/?size=100&id=TErsjj1bYlbl&format=png&color=000000"
+    },
+    {
+      "title": "React",
+      "imageSrc": "/skills/react.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "/skills/node.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "/skills/cpp.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "/skills/java.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "https://img.icons8.com/?size=100&id=gYCTehfTlYk5&format=png&color=000000"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000"
+    },
+    {
+      "title": "Flutter",
+      "imageSrc": "https://img.icons8.com/?size=100&id=pCvIfmctRaY8&format=png&color=000000"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "https://img.icons8.com/?size=100&id=3767&format=png&color=000000"
+    },
+    {
+      "title": "Docker",
+      "imageSrc": "https://img.icons8.com/?size=100&id=22813&format=png&color=000000"
+    },
+    {
+      "title": "Linux",
+      "imageSrc": "https://img.icons8.com/?size=100&id=38796&format=png&color=000000"
+    },{
+      "title": "Git",
+      "imageSrc": "https://img.icons8.com/?size=100&id=38388&format=png&color=000000"
+    },{
+      "title": "Go",
+      "imageSrc": "https://img.icons8.com/?size=100&id=53086&format=png&color=000000"
+    }
+  ]
+  

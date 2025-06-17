@@ -1,0 +1,23 @@
+[
+    {
+      "title": "CLI Chess",
+      "imageSrc": "projects/chess.png",
+      "description": "Developed a fully functional command-line chess game in C++ that supports all standard rules of chess, including piece movement, check, checkmate, castling, en passant, and pawn promotion.",
+      "skills": ["C++", "OOP", "Data Structures", "Algorithms"],
+      "source": "https://github.com/madnan4/ChessGame"
+    },
+    {
+      "title": "AI Chat APP",
+      "imageSrc": "projects/chat_app.png",
+      "description": "An AI chat application built with Vite and React on the frontend, and Express.js on the backend. It integrates OpenAI's GPT-3.5 to generate dynamic and context-aware responses.",
+      "skills": ["React", "Vite", "Express.js","JavaScript", "OpenAI"],
+      "source": "https://github.com/madnan4/Ai_chat_app"
+    },
+    {
+      "title": "Courses Web Scraper",
+      "imageSrc": "projects/web_scrape.png",
+      "description": "Developed a web scraper using cURL and the Gumbo HTML parser to extract course offerings and available majors from the University of Illinois system website.",
+      "skills": ["cURL", "Gumbo HTML Parser (C/C++)","Regular Expression", "HTML DOM Traversal", "C++"],
+      "source": "https://github.com/madnan4/Web_scraper/tree/main"
+    }
+  ]
