@@ -8,5 +8,6 @@ export default defineConfig({
     modules: {
       localsConvention: 'camelCase'
     }
-  }
+  },
+  base:'/madnan4.github.io',
 })
