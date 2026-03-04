@@ -1,9 +1,38 @@
-# React + Vite
+# Adnan Ali — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal portfolio website built with React and Vite, deployed via GitHub Pages.
 
-Currently, two official plugins are available:
+## Live Site
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# madnan4.github.io
+[madnan4.github.io](https://madnan4.github.io)
+
+## Tech Stack
+
+- **React** — component-based UI
+- **Vite** — build tool and dev server
+- **CSS Modules** — scoped styling per component
+
+## Sections
+
+- **Hero** — intro, tagline, and resume download
+- **About** — background and career focus
+- **Skills** — languages, frameworks, and tools
+- **Certifications** — CCNA and CompTIA Security+
+- **Experience** — internships and teaching roles
+- **Projects** — software and networking projects
+- **Contact** — email, LinkedIn, GitHub
+
+## Running Locally
+
+```bash
+npm install
+npm run dev
+```
+
+## Building for Production
+
+```bash
+npm run build
+```
+
+The build output is copied to `docs/` for GitHub Pages deployment.
