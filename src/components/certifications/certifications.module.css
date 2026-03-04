@@ -115,6 +115,12 @@
   color: #000;
 }
 
+@media screen and (max-width: 1100px) {
+  .container {
+    padding: 40px;
+  }
+}
+
 @media screen and (max-width: 830px) {
   .container {
     padding: 20px;

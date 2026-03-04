@@ -122,26 +122,40 @@
   z-index: 0;
 }
 
+@media screen and (max-width: 1100px) {
+  .title {
+    font-size: 48px;
+  }
+  .description {
+    font-size: 20px;
+  }
+  .contactBtn, .resumeBtn {
+    font-size: 20px;
+    padding: 14px 22px;
+  }
+}
+
 @media screen and (max-width: 830px) {
   .title {
     margin-top: 20px;
-    font-size: 30px;
+    font-size: 28px;
     padding: 0%;
   }
   .description {
-    font-size: 15px;
+    font-size: 14px;
     margin-bottom: 20px;
   }
   .container {
     flex-direction: column-reverse;
   }
-
   .content {
     align-items: center;
   }
-
   .contactBtn, .resumeBtn {
-    font-size: 18px;
-    padding: 12px 20px;
+    font-size: 16px;
+    padding: 10px 18px;
+  }
+  .heroImg {
+    width: 80%;
   }
 }
