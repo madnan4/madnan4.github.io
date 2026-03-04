@@ -1,0 +1,18 @@
+[
+  {
+    "title": "CCNA",
+    "issuer": "Cisco",
+    "imageSrc": "/certifications/CCNA.png",
+    "date": "Issued July 2025",
+    "status": "certified",
+    "credentialUrl": "https://www.credly.com/badges/a91b13d9-5439-43fb-aeb6-f7a971af787a/linked_in_profile"
+  },
+  {
+    "title": "CompTIA Security+",
+    "issuer": "CompTIA",
+    "imageSrc": "/certifications/Sec.png",
+    "date": "Expected April 2026",
+    "status": "in-progress",
+    "credentialUrl": ""
+  }
+]

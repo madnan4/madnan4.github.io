@@ -14,8 +14,8 @@ export const About = () => {
               <p>
                 Hello, I am Adnan Ali. I hold a Bachelor's Degree in Computer Science from the University of Illinois Chicago 
                 and have gained valuable experience through internships and projects in software development and related fields.
-                I am passionate about applying my technical skills to solve real-world problems and build reliable, 
-                efficient software systems. 
+                I am passionate about applying my technical skills to solve real-world problems, and I am currently
+                transitioning into cybersecurity with a focus on becoming a SOC Analyst.
               </p>
             </div>
           </li>
@@ -35,7 +35,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <p>
                 My technical skills include languages such as C++, Python, and JavaScript, and frameworks like Node.js and React.js.
-                I have experience with databases like MySQL and MongoDB, and I am proficient in Git and GitHub.
+                I hold a CCNA certification and am actively pursuing CompTIA Security+, building hands-on experience in network security, threat analysis, and security operations.
               </p>
             </div>
           </li>

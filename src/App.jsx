@@ -3,6 +3,7 @@ import { Navbar } from './components/navbar/navbar'
 import {Hero} from './components/hero/hero'
 import { About } from './components/about/about'
 import { Skills } from './components/skills/skills'
+import { Certifications } from './components/certifications/certifications'
 import { Projects } from './components/projects/projects'
 import { Experience } from './components/experience/experience'
 import { Contact } from './components/contact/contact'
@@ -15,6 +16,7 @@ function App() {
       <Hero />
       <About />
       <Skills />
+      <Certifications />
       <Experience />
       <Projects />
       <Contact />

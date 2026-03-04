@@ -19,5 +19,19 @@
       "description": "Developed a web scraper using cURL and the Gumbo HTML parser to extract course offerings and available majors from the University of Illinois system website.",
       "skills": ["cURL", "Gumbo HTML Parser (C/C++)","Regular Expression", "HTML DOM Traversal", "C++"],
       "source": "https://github.com/madnan4/Web_scraper/tree/main"
+    },
+    {
+      "title": "Enterprise Network Simulation",
+      "imageSrc": "projects/enterprise.png",
+      "description": "Designed a multi-area OSPF network with VLANs, NAT, DHCP, and inter-VLAN routing in Cisco Packet Tracer, simulating an enterprise-grade network topology.",
+      "skills": ["Cisco IOS", "OSPF", "VLANs", "NAT", "DHCP"],
+      "source": "https://github.com/madnan4/enterprise-network-simulation"
+    },
+    {
+      "title": "Network Security Lab",
+      "imageSrc": "projects/network_security.png",
+      "description": "Configured ACLs, DHCP Snooping, BPDU Guard, and Port Security to simulate enterprise switch hardening and demonstrate common network security controls.",
+      "skills": ["Cisco IOS", "ACLs", "Port Security", "DHCP Snooping", "BPDU Guard"],
+      "source": ""
     }
   ]

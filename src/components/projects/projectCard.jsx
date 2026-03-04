@@ -7,9 +7,11 @@ export const ProjectCard = ({
 }) => {
   return (
     <div className={styles.container}>
-      <img className={styles.image}
+      <img
+        className={styles.image}
         src={imageSrc}
         alt={`Project Image`}
+        onError={(e) => { e.target.src = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"; }}
       />
       <h3 className={styles.title}>{title}</h3>
       <p className={styles.description}>{description}</p>
@@ -22,11 +24,13 @@ export const ProjectCard = ({
           );
         })}
       </ul>
-      <div className={styles.links}>
-        <a href={source} className={styles.link}>
-          Source
-        </a>
-      </div>
+      {source && (
+        <div className={styles.links}>
+          <a href={source} target="_blank" rel="noopener noreferrer" className={styles.link}>
+            Source
+          </a>
+        </div>
+      )}
     </div>
   );
 };
